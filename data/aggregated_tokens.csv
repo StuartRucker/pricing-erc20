@@ -1,0 +1,298 @@
+,__type,TokenName,Symbol,ContractAddress,Balance,Price,Change24H,Value,Ens,Address,Followers
+0,BlockEther.AssetResponseModel,Ethereum,ETH,-,3.684929621669014707,"$3,069.40 (1 ETH)", 2.19%,"$11,310.52 (3.684930 ETH)",woloski.eth,0x58a8d947adfefb332956c4e21c054aa3843ca16e,13037
+1,BlockEther.AssetResponseModel,Ethereum Nam...,ENS,"
+0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",195.998424527136223...,$25.286224 (0.008238 ETH), 10.35%,"$4,956.06 (1.614667 ETH)",woloski.eth,0x58a8d947adfefb332956c4e21c054aa3843ca16e,13037
+2,BlockEther.AssetResponseModel,Rialto,XRL,"
+0xb24754be79281553dc1adc160ddf5cd9b74361a4",5.000175907,-,--,-,woloski.eth,0x58a8d947adfefb332956c4e21c054aa3843ca16e,13037
+0,BlockEther.AssetResponseModel,Ethereum,ETH,-,0.053193658689253814,"$3,069.40 (1 ETH)", 2.19%,$163.27 (0.053194 ETH),zengjiajun.eth,0xf3f527b70af6012f328d3ede7fcd3f5f3ca6cba2,2133
+1,BlockEther.AssetResponseModel,DappRadar,RADAR,"
+0x44709a920fccf795fbc57baa433cc3dd53c44dbe",8697,$0.020932 (0.000007 ETH), 11.19%,$182.05 (0.059311 ETH),zengjiajun.eth,0xf3f527b70af6012f328d3ede7fcd3f5f3ca6cba2,2133
+0,BlockEther.AssetResponseModel,Ethereum,ETH,-,46.4818759593454097...,"$3,069.40 (1 ETH)", 2.19%,"$142,671.47 (46.481876 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+1,BlockEther.AssetResponseModel,Immutable X,IMX,"
+0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",109810.3,$3.88 (0.001264 ETH), 3.51%,"$426,063.96 (138.810179 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+2,BlockEther.AssetResponseModel,Unisocks Edi...,SOCKS,"
+0x23b608675a2b2fb1890d3abbd85c5775c51691d5",1.001042156925858222,"$80,876.00 (26.349124 ETH)", 1.32%,"$80,960.29 (26.376584 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+3,BlockEther.AssetResponseModel,Bankless Tok...,BANK,"
+0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198",565285.183947930005...,$0.067557 (0.000022 ETH), 6.88%,"$38,188.82 (12.441786 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+4,BlockEther.AssetResponseModel,Gitcoin,GTC,"
+0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",1481.90000000000013...,$10.61 (0.003457 ETH), 7.28%,"$15,722.96 (5.122486 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+5,BlockEther.AssetResponseModel,Adventure Go...,AGLD,"
+0x32353A6C91143bfd6C7d363B546e62a9A2489A20",10000,$1.336889 (0.000436 ETH), 8.28%,"$13,368.89 (4.355539 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+6,BlockEther.AssetResponseModel,Ethereum Nam...,ENS,"
+0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",403.997001883328512,$25.286224 (0.008238 ETH), 10.35%,"$10,215.56 (3.328194 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+7,BlockEther.AssetResponseModel,The Doge NFT,DOG,"
+0xbaac2b4491727d78d2b78815144570b9f2fe8899",1489360.79621472132...,$0.004711 (0.000002 ETH), 4.66%,"$7,016.84 (2.286062 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+8,BlockEther.AssetResponseModel,RAZOR,RAZOR,"
+0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd",155000,$0.042159 (0.000014 ETH), 1.51%,"$6,534.70 (2.128983 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+9,BlockEther.AssetResponseModel,TORN Token,TORN,"
+0x77777feddddffc19ff86db637967013e6c6a116c",60.6557268360273145...,$26.99 (0.008793 ETH), 4.65%,"$1,637.10 (0.533361 ETH)",mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+10,BlockEther.AssetResponseModel,Wrapped Ethe...,WETH,"
+0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",0.31,"$3,067.79 (0.999475 ETH)", 2.71%,$951.01 (0.309837 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+11,BlockEther.AssetResponseModel,Flex Ungover...,FLX,"
+0x6243d8cea23066d098a15582d81a598b4e8391f4",2.65449148,$332.364799 (0.108283 ETH), 3.91%,$882.26 (0.287437 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+12,BlockEther.AssetResponseModel,Graph Token,GRT,"
+0xc944e90c64b2c07662a292be6244bdf05cda44a7",685,$0.540414 (0.000176 ETH), 8.01%,$370.18 (0.120605 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+13,BlockEther.AssetResponseModel,Collector Co...,AGS,"
+0x667fd83e24ca1d935d36717d305d54fa0cac991c",2000,$0.078204 (0.000025 ETH),--,$156.41 (0.050957 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+14,BlockEther.AssetResponseModel,Request,REQ,"
+0x8f8221afbb33998d8584a2b05749ba73c37a938a",391,$0.278418 (0.000091 ETH), 7.58%,$108.86 (0.035467 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+15,BlockEther.AssetResponseModel,FOX,FOX,"
+0xc770eefad204b5180df6a14ee197d99d808ee52d",200,$0.424897 (0.000138 ETH), 8.45%,$84.98 (0.027686 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+16,BlockEther.AssetResponseModel,Trustlines N...,TLN,"
+0x679131F591B4f369acB8cd8c51E68596806c3916",2810.68375842525554...,$0.022466 (0.000007 ETH),--,$63.14 (0.020572 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+17,BlockEther.AssetResponseModel,Rai Reflex I...,RAI,"
+0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",19.67539068317599389,$3.06 (0.000997 ETH), 0.02%,$60.21 (0.019615 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+18,BlockEther.AssetResponseModel,Panvala pan,PAN,"
+0xd56dac73a4d6766464b38ec6d91eb45ce7457c44",150,$0.06591 (0.000021 ETH), 3.06%,$9.89 (0.003221 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+19,BlockEther.AssetResponseModel,USD Coin,USDC,"
+0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",1.407642,$1.00 (0.000326 ETH), 0.18%,$1.41 (0.000459 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+20,BlockEther.AssetResponseModel,ERC20,ERC20,"
+0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",0.99,$0.04019 (0.000013 ETH), 10.18%,$0.04 (0.000013 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+21,BlockEther.AssetResponseModel,Ebakus,EBK,"
+0xbddab785b306bcd9fb056da189615cc8ece1d823",19.3358333483916325...,$0.000575 (0.000000 ETH), 0.81%,$0.01 (0.000004 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+22,BlockEther.AssetResponseModel,Amber,AMB,"
+0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",0.1,$0.024223 (0.000008 ETH), 2.16%,≈$0.00 (0.000001 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+23,BlockEther.AssetResponseModel,More Gold Co...,MGC,"
+0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",4,$0.00043 (0.000000 ETH), 2.53%,≈$0.00 (0.000001 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+24,BlockEther.AssetResponseModel,PieDAO DOUGH...,DOUGH,"
+0xad32A8e6220741182940c5aBF610bDE99E737b2D",0.000537332539401099,$0.337607 (0.000110 ETH), 2.84%,≈$0.00 (0.000000 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+25,BlockEther.AssetResponseModel,Scatter.cx,STT,"
+0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd",1,$0.0001 (0.000000 ETH),--,≈$0.00 (0.000000 ETH),mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+26,BlockEther.AssetResponseModel,fees.wtf DAO,FEES,"
+0x5c8abe1e0b004595c6e945d5adb3cea2debe3cdf",5420784250.79144705...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+27,BlockEther.AssetResponseModel,RealToken 59...,REALTO...,"
+0x43688910273f199B8AE2cA018c13918fb3D37B58",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+28,BlockEther.AssetResponseModel,DappRadar.co...,RADAR,"
+0x8b214d6c149eeac90f2fc6c035a3aef3d4353621",287054.683293874525...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+29,BlockEther.AssetResponseModel,Discord DAO,Discor...,"
+0xb639687c6768ab33996541d05948dd621a012503",87670630067.7142896...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+30,BlockEther.AssetResponseModel,KickToken,KICK,"
+0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e",888888,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+31,BlockEther.AssetResponseModel,Open Source ...,OSS,"
+0xa0c0599b394688db5e0928e62c4f7ab246f005ac",147130502771.052875...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+32,BlockEther.AssetResponseModel,Hey Mariano,NTFY,"
+0x41c52095b753f588e204bb91650044d5547d74b6",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+33,BlockEther.AssetResponseModel,DOUGH Gov v1,DOUGH,"
+0x5f5e9ed11344dadc3a08688e5f17e23f6a99bf81",0.000000208016235414,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+34,BlockEther.AssetResponseModel,@AndreCronje...,CRON,"
+0x8E14d03061705eB48fdA6BC6e244C5EABE5d322E",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+35,BlockEther.AssetResponseModel,abSHIBA.com,ABSHIB...,"
+0x265befe2b1a0f4f646dea96ba09c1656b74bda91",8824230,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+36,BlockEther.AssetResponseModel,zkSync.io,ZKS,"
+0x5514ef825310c76C2449E23a3d5F1305b7bfa115",34861.9249986718594...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+37,BlockEther.AssetResponseModel,Shiba v2 Lim...,SHIBA2,"
+0xa0335820dc549dbfae5b8d691331cadfca7026e0",100.82410444,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+38,BlockEther.AssetResponseModel,Facebook,META,"
+0xb948719cb567f44d71a348eceb14406e4731e7c0",1000000000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+39,BlockEther.AssetResponseModel,PoolTogether...,PcDAI,"
+0x334cbb5858417aee161b53ee0d5349ccf54514cf",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+40,BlockEther.AssetResponseModel,A68.net,A68.ne...,"
+0x1412ECa9dc7daEf60451e3155bB8Dbf9DA349933",93989.28,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+41,BlockEther.AssetResponseModel,Wu-Tang Fina...,WUFI,"
+0x6f0371247d21d7afad6e624f6e8dbb3bff0455c2",16389598.4876978470...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+42,BlockEther.AssetResponseModel,Karma Points,KRPT,"
+0xa698014bbA454eeb5E82dd72270D2d6a385b35f1",10,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+43,BlockEther.AssetResponseModel,Metaverse Fi...,METAFI,"
+0x91Fd21E121435E0CD8FfDc306195B980e8683837",1401994140.86346763...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+44,BlockEther.AssetResponseModel,GivingTuesda...,GT,"
+0xA0C24F31b9cab944ADA34628f1840CE036166e30",8676117700.50263785...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+45,BlockEther.AssetResponseModel,Public Goods,PUBG,"
+0x0c334506E0bcb7C17b583CB7c0ec2F5857BF9e6F",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+46,BlockEther.AssetResponseModel,Adidas Origi...,ADIDAS,"
+0xf4e80489046e713e9c0b941a286c53ec39D3364B",10581875653.6844442...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+47,BlockEther.AssetResponseModel,CARPFINANCE,CARP,"
+0xe066892b38f076798b84f3c2e8d4ed4fc0d2f30d",50,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+48,BlockEther.AssetResponseModel,Social Metav...,SOMETA,"
+0xd468b5fE909338084bC5bC8ecf77d129D40e3C8D",1924718092.22230188...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+49,BlockEther.AssetResponseModel,Ethereum: Th...,INFINI...,"
+0xff2f509668048d4fde4f40fedab3334ce104a39b",35000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+50,BlockEther.AssetResponseModel,Essay,ESSAY,"
+0x517bab7661c315c63c6465eed1b4248e6f7fe183",100,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+51,BlockEther.AssetResponseModel,Sequoia Capi...,SCD,"
+0xcdd879f2d26a3d9f641c8ef825741fac25cb47f9",487053875.004026594...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+52,BlockEther.AssetResponseModel,Gods Unchain...,GODS,"
+0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",10481.4,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+53,BlockEther.AssetResponseModel,GovernanceNe...,https:...,"
+0x8ce2a039cbcd307662f4a22b9e3618ae9dde2365",1000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+54,BlockEther.AssetResponseModel,FreeRossDAO,ROSS,"
+0x1c4e5c6e62c972c0bdc7918d7868db5c46070693",2533381.25999532670...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+55,BlockEther.AssetResponseModel,100 Physical...,STATEF...,"
+0x6458b744375abab0779df9e79d6b30e192513d16",400,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+56,BlockEther.AssetResponseModel,A16Z Capital...,A16ZCD,"
+0xb6f649ede0c8bfef193f3ae6a8b37b25dad0e1ec",339148213.350325076...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+57,BlockEther.AssetResponseModel,empowr,EMPR,"
+0xe7d7b37e72510309db27c460378f957b1b04bd5d",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+58,BlockEther.AssetResponseModel,Paperclip,CLIP,"
+0x47e1b433ca6f3f87302face00484bae025b6b31c",500,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+59,BlockEther.AssetResponseModel,CRYPTOPUNKS,Ͼ,"
+0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+60,BlockEther.AssetResponseModel,pSTAKE Finan...,PSTAKE,"
+0x691e46352812414badea3e87ead498279e2d4cf6",4312.85036070871217...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+61,BlockEther.AssetResponseModel,Tronix,TRX,"
+0xf230b790e05390fc8295f4d3f60332c93bed42e2",91,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+62,BlockEther.AssetResponseModel,Metaverse,META,"
+0xd481913be0e039bc7b40a339956399feb9254853",679890133.190871586...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+63,BlockEther.AssetResponseModel,Mirror Write...,WRITE,"
+0x622236bb180256b6ae1a935dae08dc0356141632",1.006456412,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+64,BlockEther.AssetResponseModel,Solos Token,SoloS,"
+0x8872332b988152d485028ddb68e7da98962958cd",40,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+65,BlockEther.AssetResponseModel,Adidas Into ...,ADIDAS,"
+0x143e2107deec60ad2be9252f3db3f7b0b57a235a",100000000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+66,BlockEther.AssetResponseModel,Genopets,GENE,"
+0x33fb9a3852df56d2090a6101a935704c9342015a",27351.3729055590333...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+67,BlockEther.AssetResponseModel,PleasrDAO,PEEPS,"
+0xba962a81f78837751be8a177378d582f337084e6",11336.58,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+68,BlockEther.AssetResponseModel,Balance toke...,BAL,"
+0xe7049114562c759d5e9d1d25783773ccd61c0a65",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+69,BlockEther.AssetResponseModel,BabyShiba In...,BABYSH...,"
+0x9eb3764eb354b6694cc1e2d44d209abf762ac68a",4036724106.75826018...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+70,BlockEther.AssetResponseModel,CharPunk.Com,C,"
+0x434d5875534d19fc7105281cf61dbfd1c93c8cb1",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+71,BlockEther.AssetResponseModel,Instagram NF...,INSTAG...,"
+0xa645c47ad4b07728e9e5329c8f00030802fa4b32",386773663.462108686...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+72,BlockEther.AssetResponseModel,Facebook,META,"
+0xc38cdcd0c8febe2127485b2ba0e6ba21b3dd903b",29500000000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+73,BlockEther.AssetResponseModel,deApy.org,deApy....,"
+0x01454cdc3fab2a026cc7d1cb2aea9b909d5ba0ee",300000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+74,BlockEther.AssetResponseModel,Up1.org,Up1.or...,"
+0xF9d25EB4C75ed744596392cf89074aFaA43614a8",66527,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+75,BlockEther.AssetResponseModel,Humanity,HUM,"
+0xbbd1706d16418bb136e1497a73d3af4164586da0",30001,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+76,BlockEther.AssetResponseModel,Facebook,META,"
+0xd6e72b611557bb043f4418d2319e5160f0c1d7f2",7402141803.30004747...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+77,BlockEther.AssetResponseModel,BabyShiba In...,BABYSH...,"
+0x6ab499b4529cd8e3ab8e34ed65e65cf3a2f323dd",6411717592.90532001...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+78,BlockEther.AssetResponseModel,Fomoverse To...,FOMO,"
+0xf509cdcdf44a0bcd2953ce3f03f4b433ef6e4c44",1380,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+79,BlockEther.AssetResponseModel,Agora,AGR,"
+0x3174c1e1bbcfb3fe8e9be3Ec9b4177a5cFbe5966",16078,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+80,BlockEther.AssetResponseModel,AnthemGold,AGLD,"
+0xd668dAb892F1B702a6B9EE01342508B14d4E62C5",0.001,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+81,BlockEther.AssetResponseModel,Metaverse,META,"
+0x867106caf76a89a63262320c441010a41b61294f",11219225231.4114604...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+82,BlockEther.AssetResponseModel,PunkETH.io,NFT,"
+0xcbdeb4ff6cb834a83bf438d26a2fb5e6f53319b7",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+83,BlockEther.AssetResponseModel,Nike RTFKT S...,NIKE,"
+0x295ee0913201f181db45d80aeb1bbbe3b3308623",579151752.385341652...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+84,BlockEther.AssetResponseModel,MetaCartel S...,MSB,"
+0x4b56cd70ac9842f4a5d676b8bc270fce2c0ef8c2",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+85,BlockEther.AssetResponseModel,ShibArmy Inu,SHIBAR...,"
+0x9590f5c81056cd1964068bc88da74bbbac108a57",3900000000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+86,BlockEther.AssetResponseModel,CocaCola NFT,COCACO...,"
+0x827b2501dfd962009acbba294b0616adafe6599f",646723467.762322687...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+87,BlockEther.AssetResponseModel,Mero Currenc...,MRO,"
+0x6ff313fb38d53d7a458860b1bf7512f54a03e968",99.9,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+88,BlockEther.AssetResponseModel,MonkeyCoin,MC,"
+0xa38b7ee9df79955b90cc4e2de90421f6baa83a3d",100,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+89,BlockEther.AssetResponseModel,Facebook,META,"
+0x25fd22e3f3ecf07d1fb1cde26d9484a540c61aff",5000000000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+90,BlockEther.AssetResponseModel,YeSwap.net,YeSwap...,"
+0xb699dab9b3f981a01abc0474f085427d20d0d602",300000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+91,BlockEther.AssetResponseModel,BLONDCOIN,BLO,"
+0x1c3bb10de15c31d5dbe48fbb7b87735d1b7d8c32",4,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+92,BlockEther.AssetResponseModel,BabyShiba In...,BABYSH...,"
+0x3cd2459a1822e4fc4842729a5b7fcdcedd9c3635",493357522.902655315...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+93,BlockEther.AssetResponseModel,Ethercash（以太...,ETHS,"
+0xa2dca1505b07e39f96ce41e875b447f46d50c6fc",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+94,BlockEther.AssetResponseModel,Metaverse,META,"
+0x62fe3663aa2c1e9dbc9b3482a5590a4a35fd67f6",5000000000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+95,BlockEther.AssetResponseModel,Merry Christ...,XMAS,"
+0x1fD240717063f5248C239080a6c9A22bF7601682",13512982302.4617418...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+96,BlockEther.AssetResponseModel,ShibArmy Inu,SHIBAR...,"
+0x6f024364e2f36f35ba3042cdab935647cbc1e72b",10000000000,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+97,BlockEther.AssetResponseModel,NFT DAO,NFTDAO,"
+0x323b83b3b9847bdcc76d57867fb37b88655c7954",1605358651.15535857...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+98,BlockEther.AssetResponseModel,Legendary Ch...,GLC,"
+0x20D4Cec36528e1C4563c1BFbE3De06aBa70b22B4",157,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+99,BlockEther.AssetResponseModel,Key7.net,Key7.n...,"
+0xe1b3f4849c8959f53edd3ab932e0f145daf865c1",98134,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+100,BlockEther.AssetResponseModel,Pornhub DAO,Porn,"
+0x843976d0705c821ae02ab72ab505a496765c8f93",176242241140.054734...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+101,BlockEther.AssetResponseModel,POV Crypto,POV,"
+0xAdD27120B57d9bD0CEA29876168A01E3E904131e",1,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+102,BlockEther.AssetResponseModel,BabyShiba In...,BABYSH...,"
+0x798839d60e4a1e8e2a384a07d13a113a3243544a",8333651067.94771629...,-,--,-,mariano.eth,0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2,56818
+0,BlockEther.AssetResponseModel,Ethereum,ETH,-,0.46546535568985835,"$3,069.40 (1 ETH)", 2.19%,"$1,428.70 (0.465465 ETH)",matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+1,BlockEther.AssetResponseModel,Decentraland,MANA,"
+0x0f5d2fb29fb7d3cfee444a200298f468908cc942",4821.87108379397278...,$2.804689 (0.000914 ETH),--,"$13,523.85 (4.406023 ETH)",matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+2,BlockEther.AssetResponseModel,Friends With...,FWB,"
+0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",77.3101603520229631...,$47.396586 (0.015442 ETH), 8.69%,"$3,664.24 (1.193796 ETH)",matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+3,BlockEther.AssetResponseModel,TheDAO,TheDAO,"
+0xbb9bc244d798123fde783fcc1c72d3bb8c189413",1,$30.698315 (0.010001 ETH),--,$30.70 (0.010001 ETH),matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+4,BlockEther.AssetResponseModel,KickToken,KICK,"
+0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e",888888,-,--,-,matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+5,BlockEther.AssetResponseModel,akSwap.io,akSwap...,"
+0x43661f4b1c67dd6c1e48c6faf2887b22aee3ddf5",250000,-,--,-,matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+6,BlockEther.AssetResponseModel,DONA,DONA,"
+0x058bc8ef040bd3971418e36aa88b64899378ccf4",0.511432920989601556,-,--,-,matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+7,BlockEther.AssetResponseModel,FF9.io,FF9.io,"
+0x34278F6f40079eae344cbaC61a764Bcf85AfC949",300000,-,--,-,matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+8,BlockEther.AssetResponseModel,Mirror Write...,WRITE,"
+0x622236bb180256b6ae1a935dae08dc0356141632",1,-,--,-,matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+9,BlockEther.AssetResponseModel,KRAUSE,KRAUSE,"
+0x9f6f91078a5072a8b54695dafa2374ab3ccd603b",1000,-,--,-,matthewl.eth,0xa7d65e7348e1736ce93e3cec7e1292595e3b16e5,10871
+0,BlockEther.AssetResponseModel,Ethereum,ETH,-,6.36745895748114666,"$3,069.40 (1 ETH)", 2.19%,"$19,544.28 (6.367459 ETH)",cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+1,BlockEther.AssetResponseModel,Constitution...,PEOPLE,"
+0x7a58c0be72be218b41c608b7fe7c5bb630736c71",5000000,$0.077801 (0.000025 ETH), 14.28%,"$389,005.00 (126.736496 ETH)",cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+2,BlockEther.AssetResponseModel,Friends With...,FWB,"
+0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",297.603841036877652...,$47.396586 (0.015442 ETH), 8.69%,"$14,105.41 (4.595493 ETH)",cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+3,BlockEther.AssetResponseModel,Ethereum Nam...,ENS,"
+0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",450.638035359968493...,$25.286224 (0.008238 ETH), 10.35%,"$11,394.93 (3.712431 ETH)",cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+4,BlockEther.AssetResponseModel,Wrapped Ethe...,WETH,"
+0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",1.2,"$3,067.79 (0.999475 ETH)", 2.71%,"$3,681.35 (1.199371 ETH)",cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+5,BlockEther.AssetResponseModel,SAND,SAND,"
+0x3845badAde8e6dFF049820680d1F14bD3903a5d0",252.954335057311293...,$4.43 (0.001443 ETH), 6.42%,"$1,120.59 (0.365084 ETH)",cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+6,BlockEther.AssetResponseModel,Aavegotchi G...,GHST,"
+0x3F382DbD960E3a9bbCeaE22651E88158d2791550",212.377743346983444...,$1.979608 (0.000645 ETH),--,$420.42 (0.136973 ETH),cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+7,BlockEther.AssetResponseModel,SOS,SOS,"
+0x3b484b82567a09e2588a13d54d032153f0c0aee0",44653341.2624,$0.000004 (0.000000 ETH), 15.76%,$166.11 (0.054118 ETH),cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+8,BlockEther.AssetResponseModel,Livepeer Tok...,LPT,"
+0x58b6a8a3302369daec383334672404ee733ab239",2.242260376625581057,$33.35 (0.010865 ETH), 9.96%,$74.78 (0.024363 ETH),cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+9,BlockEther.AssetResponseModel,Dai Stableco...,DAI,"
+0x6b175474e89094c44da98b954eedeac495271d0f",26.4593093045744874...,$0.999752 (0.000326 ETH), 0.09%,$26.45 (0.008618 ETH),cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+10,BlockEther.AssetResponseModel,YUP,YUP,"
+0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",25,$0.565926 (0.000184 ETH), 1.92%,$14.15 (0.004609 ETH),cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+11,BlockEther.AssetResponseModel,CANDY,CANDY,"
+0xf2eab3a2034d3f6b63734d2e08262040e3ff7b48",13848,$0.000036 (0.000000 ETH),--,$0.50 (0.000162 ETH),cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+12,BlockEther.AssetResponseModel,VIN,VIN,"
+0xf3e014fe81267870624132ef3a646b8e83853a96",7.77,$0.004895 (0.000002 ETH), 4.66%,$0.04 (0.000012 ETH),cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+13,BlockEther.AssetResponseModel,BURN ALPHA N...,NOVEL,"
+0x95d0A89943E0e3e05d290Fc07462c148EB6a11Ff",500,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+14,BlockEther.AssetResponseModel,Ethereum: Th...,INFINI...,"
+0xff2f509668048d4fde4f40fedab3334ce104a39b",1000,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+15,BlockEther.AssetResponseModel,Lion DAO,LION,"
+0xD8Aaa606DBA50F7615Db4EBF0E439AF062BEfEb3",100,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+16,BlockEther.AssetResponseModel,WxFi.io,WxFi.i...,"
+0xd667a84005975eef906e980f200541974a8c9766",300000,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+17,BlockEther.AssetResponseModel,Mirror Write...,WRITE,"
+0x622236bb180256b6ae1a935dae08dc0356141632",0.06772729024,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+18,BlockEther.AssetResponseModel,xRES.org,xRES.o...,"
+0xb3d608c31ACa7a1c7D6DAcec5978E5493181b67A",61974.99,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+19,BlockEther.AssetResponseModel,GP,GP,"
+0x38Ec27c6F05a169e7eD03132bcA7d0cfeE93C2C5",2414.00338647095736...,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+20,BlockEther.AssetResponseModel,Up1.org,Up1.or...,"
+0xF9d25EB4C75ed744596392cf89074aFaA43614a8",66527,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+21,BlockEther.AssetResponseModel,Avocado,AVO,"
+0xfa6f7881e52fdf912c4a285d78a3141b089ce859",100000000,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+22,BlockEther.AssetResponseModel,Unicorn Cand...,Candy,"
+0xcd3673af09e76c74d889aabab68ca0645566a3a1",25,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+23,BlockEther.AssetResponseModel,iBuildApp Ne...,IBA,"
+0xef88808d0fbb5c0c2c89f6d9b45eda53c0150993",5,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+24,BlockEther.AssetResponseModel,Tronix,TRX,"
+0xf230b790e05390fc8295f4d3f60332c93bed42e2",69,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+25,BlockEther.AssetResponseModel,An Etheal Pr...,HEALP,"
+0x7b2f9706cd8473b4f5b7758b0171a9933fc6c4d6",911,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+26,BlockEther.AssetResponseModel,Bulleon Prom...,BULLEO...,"
+0xd4de05944572d142fbf70f3f010891a35ac15188",365,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+27,BlockEther.AssetResponseModel,Veil Ether,Veil E...,"
+0x53b04999c1ff2d77fcdde98935bb936a67209e4c",0.14142,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+28,BlockEther.AssetResponseModel,Virtual Augu...,VSHARE,"
+0x52bd079251e4aff2f7c0d73bbef8ed01f561629f",0.00001,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+29,BlockEther.AssetResponseModel,Coin-coin co...,CC coi...,"
+0x7f3eab3491ed282197038f1b89ca33d7e5adffba",1000,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+30,BlockEther.AssetResponseModel,Asure,ASR,"
+0x15dfc197e7ac7d81a07250b5bdebaa96fc1c5dfa",200,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+31,BlockEther.AssetResponseModel,KickToken,KICK,"
+0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e",888888,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400
+32,BlockEther.AssetResponseModel,Cash Monet T...,NEUE-0...,"
+0xa776C68e5D198cA4983A47792A9CCA6273Ec24f0",1,-,--,-,cdixon.eth,0xe11bfcbdd43745d4aa6f4f18e24ad24f4623af04,778400

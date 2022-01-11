@@ -5,7 +5,7 @@ import requests
 import pyuser_agent
 import pandas as pd
 from bs4 import BeautifulSoup
-
+import random
 import Constants
 
 
@@ -29,9 +29,12 @@ def get_erc20_balances_raw(address, use_proxy=False):
         'accept-language': 'en-US,en;q=0.9'
     }
     
-    proxy_url = f"http://{Constants.PROXY_USERNAME}:{Constants.PROXY_PASSWORD}@gate.smartproxy.com:7000"
-    proxy_obj = {'http': proxy_url, 'https': proxy_url}
+    random_hostname = random.sample(Constants.VPN_HOSTS,1)[0]
+    proxy_obj = {'http': f'socks5://{Constants.VPN_PROXY_USERNAME}:{Constants.VPN_PROXY_PASSWORD}@{random_hostname}:1080', 'https':f'socks5://{Constants.VPN_PROXY_USERNAME}:{Constants.VPN_PROXY_PASSWORD}@{random_hostname}:1080'}
+    
     r = requests.post(url, data=data, headers=headers, proxies=proxy_obj) if use_proxy else requests.post(url, data=data, headers=headers)
+
+
     return r.json()['d']['data']
 def extract_text(content):
     soup = BeautifulSoup(content, features="html.parser")
