@@ -1,0 +1,62 @@
+,__type,TokenName,Symbol,ContractAddress,Balance,Price,Change24H,Value
+0,BlockEther.AssetResponseModel,Ethereum,ETH,-,0.129210129897742968,"$3,072.43 (1 ETH)", 2.10%,$396.99 (0.129250 ETH)
+1,BlockEther.AssetResponseModel,Friends With...,FWB,"
+0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",75.9450162107220575...,$47.448543 (0.015448 ETH), 8.43%,"$3,603.48 (1.173207 ETH)"
+2,BlockEther.AssetResponseModel,Governance O...,gOHM,"
+0x0ab87046fBb341D058F17CBC4c1133F25a20a52f",0.093982497597084614,"$12,213.85 (3.976536 ETH)", 24.17%,"$1,147.89 (0.373725 ETH)"
+3,BlockEther.AssetResponseModel,Frax Share,FXS,"
+0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",24.5038110417917546...,$34.88 (0.011356 ETH), 3.91%,$854.69 (0.278267 ETH)
+4,BlockEther.AssetResponseModel,Convex Token,CVX,"
+0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",16.5226127538676860...,$35.343064 (0.011507 ETH), 9.17%,$583.96 (0.190123 ETH)
+5,BlockEther.AssetResponseModel,Wrapped LUNA...,LUNA,"
+0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",6.933019639487750667,$69.051055 (0.022481 ETH), 7.23%,$478.73 (0.155864 ETH)
+6,BlockEther.AssetResponseModel,LooksRare To...,LOOKS,"
+0xf4d2888d29d722226fafa5d9b24f9164c092421e",125,$2.07 (0.000674 ETH), 54.24%,$258.75 (0.084243 ETH)
+7,BlockEther.AssetResponseModel,Gnosis,GNO,"
+0x6810e776880c02933d47db1b9fc05908e5386b96",0.117498218827277993,$403.08 (0.131233 ETH), 11.13%,$47.36 (0.015420 ETH)
+8,BlockEther.AssetResponseModel,1INCH Token,1INCH,"
+0x111111111117dc0aa78b770fa6a738034120c302",5.17769987,$2.07 (0.000674 ETH), 4.37%,$10.72 (0.003489 ETH)
+9,BlockEther.AssetResponseModel,USD Coin,USDC,"
+0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",1.557099,$1.00 (0.000326 ETH), 0.19%,$1.56 (0.000507 ETH)
+10,BlockEther.AssetResponseModel,E-RADIX,eXRD,"
+0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414",0.521723396505960849,$0.209952 (0.000068 ETH), 2.95%,$0.11 (0.000036 ETH)
+11,BlockEther.AssetResponseModel,DameToken,DAME,"
+0x5337fb67d80b08344bbc31fc3db73798a98a8422",500,-,--,-
+12,BlockEther.AssetResponseModel,xBTRFLY,xBTRFL...,"
+0xcc94faf235cc5d3bf4bed3a30db5984306c86abc",0.319938597,-,--,-
+13,BlockEther.AssetResponseModel,Seed Club To...,$CLUB,"
+0x5c111a840d9a3041dc67f792c2243463e8e5c8c3",300.81301,-,--,-
+14,BlockEther.AssetResponseModel,Nike RTFKT S...,NIKE,"
+0x295ee0913201f181db45d80aeb1bbbe3b3308623",18688297.8097836056...,-,--,-
+15,BlockEther.AssetResponseModel,XXMON,xXMON,"
+0x0b5c9081e818E3B2CF677e7F42391de34d6ab2F3",0.073559183356419753,-,--,-
+16,BlockEther.AssetResponseModel,Seed Club,CLUB,"
+0xf76d80200226ac250665139b9e435617e4ba55f9",300.81301,-,--,-
+17,BlockEther.AssetResponseModel,Discord DAO,DISCOR...,"
+0x5289cb754107f11bbd92fcb2fdc0065a3275a5b3",37319982.2210992259...,-,--,-
+18,BlockEther.AssetResponseModel,APPLE DAO,APPLE,"
+0x3c4f8fe3cf50eca5439f8d4de5bdf40ae71860ae",508167023.781844784...,-,--,-
+19,BlockEther.AssetResponseModel,Wikipedia DA...,Wiki,"
+0xafa004f6af7866c201c64c935079ab22a50f6c13",1133556320.28086814...,-,--,-
+20,BlockEther.AssetResponseModel,SYN CITY,SYN,"
+0xe5104aabd5c2836ad19b0cea4c93f391a05a8dbd",699264.965436677728...,-,--,-
+21,BlockEther.AssetResponseModel,Reddit DAO,REDDIT,"
+0x7ddb7708826dbcd94040eba791e966e78a1cda81",534106091.254787847...,-,--,-
+22,BlockEther.AssetResponseModel,Paypal DAO,PAYPAL,"
+0xd283aba8a3e029669879689ac3ace1417fdbb031",147352186.246661690...,-,--,-
+23,BlockEther.AssetResponseModel,DISNEY DAO,DISNEY,"
+0xcde6c334cab553deda31fec3602d90bbadb45a1e",8912805948.89551848...,-,--,-
+24,BlockEther.AssetResponseModel,Warm Vibes O...,BLITBI...,"
+0xa74c21d6d1f643f1346847aa061cc924a7d960cc",1,-,--,-
+25,BlockEther.AssetResponseModel,"Crypto, Cult...",SOCIET...,"
+0x819b12e7b398021fbd9d2acdc8b7349e3d732b51",300,-,--,-
+26,BlockEther.AssetResponseModel,Miguel Piedr...,MIGUEL,"
+0x9eeab5dacad364017c400bfbf717543a0e3c35cb",50,-,--,-
+27,BlockEther.AssetResponseModel,DAMN,DAMN,"
+0xcf7f28d4c06f81efc273a78446735c19b21c94c6",1562.5,-,--,-
+28,BlockEther.AssetResponseModel,Mad Realitie...,ZERO,"
+0xccac1187f4439e6ff02de97b16ff40bd2e7c8080",100,-,--,-
+29,BlockEther.AssetResponseModel,Bright Momen...,BRTVOT...,"
+0x30b087e1f62561eb5fe1edb6f76c3411a270eb9a",10,-,--,-
+30,BlockEther.AssetResponseModel,KRAUSE,KRAUSE,"
+0x9f6f91078a5072a8b54695dafa2374ab3ccd603b",100,-,--,-
