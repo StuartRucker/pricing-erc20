@@ -29,13 +29,14 @@ def get_erc20_balances_raw(address, use_proxy=False):
         'accept-language': 'en-US,en;q=0.9'
     }
     
-    random_hostname = random.sample(Constants.VPN_HOSTS,1)[0]
-    proxy_obj = {'http': f'socks5://{Constants.VPN_PROXY_USERNAME}:{Constants.VPN_PROXY_PASSWORD}@{random_hostname}:1080', 'https':f'socks5://{Constants.VPN_PROXY_USERNAME}:{Constants.VPN_PROXY_PASSWORD}@{random_hostname}:1080'}
-    
+
+    proxy = f"http://{Constants.SMART_PROXY_USERNAME}:{Constants.SMART_PROXY_PASSWORD}@gate.smartproxy.com:7000"
+    proxy_obj = {'http': proxy, 'https': proxy}
     r = requests.post(url, data=data, headers=headers, proxies=proxy_obj) if use_proxy else requests.post(url, data=data, headers=headers)
 
 
     return r.json()['d']['data']
+
 def extract_text(content):
     soup = BeautifulSoup(content, features="html.parser")
     return soup.text

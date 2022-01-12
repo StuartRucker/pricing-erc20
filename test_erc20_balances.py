@@ -4,7 +4,7 @@ import pandas as pd
 from scraping_functions.erc20_balances import get_erc20_balances
 
 
-df = get_erc20_balances('0x01b7baA7baA864fEF3CD1C7bc118Cc97cEdCB33f')
+df = get_erc20_balances('0x01b7baA7baA864fEF3CD1C7bc118Cc97cEdCB33f', True)
 
-df.to_csv('data/gabytokens.csv')
+df.to_csv('data/testproxy.csv', index=False)
 
