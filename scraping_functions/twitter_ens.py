@@ -34,7 +34,7 @@ def get_following_raw(twitter_id, pagination_token=None):
   return json_response
 
 def extract_ens(s):
-    m = re.search('[\w.]+.eth',s)
+    m = re.search('[\w.]+\.eth',s)
     return m.group(0) if m else None
 
  
