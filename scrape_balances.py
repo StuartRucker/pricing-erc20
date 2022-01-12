@@ -18,10 +18,10 @@ for i in range(0, len(df_addresses)):
             df_tokens['Owner_'+c] = df_addresses.iloc[i][c]
 
         dfs.append(df_tokens)
-        print(f'{i} {df_addresses.iloc[i]['ens']} ✅')
+        print(f'{i} {df_addresses.iloc[i]["ens"]} ✅')
 
     except Exception as e:
-        print(f'{i} {df_addresses.iloc[i]['ens']} ❌')
+        print(f'{i} {df_addresses.iloc[i]["ens"]} ❌')
 
 df = pd.concat(dfs)
 
