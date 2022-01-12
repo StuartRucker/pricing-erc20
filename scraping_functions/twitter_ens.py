@@ -44,11 +44,11 @@ def perform_search(mega_df, rounds=10):
 
         if i % 15 == 0: #CHANGE
             mega_df.to_csv(f'data/ens_checkpoint/round_{i}.csv')
-        #get best
+        #get best   
         try:
-            not_yet_searched = mega_df[mega_df.visited == False]
+            not_yet_searched = mega_df[mega_df.visited != True]
             if not_yet_searched.shape[0] < 2:
-                return
+                return mega_df
     
             search_id = not_yet_searched[not_yet_searched.followers_count == not_yet_searched.followers_count.max()].id.iloc[0]
             
@@ -70,6 +70,7 @@ def perform_search(mega_df, rounds=10):
             
             
             search_df['ens'] = search_df.name.apply(extract_ens)
+            search_df['visited'] = False
 
             search_df = search_df.dropna(subset=['ens'])
             
